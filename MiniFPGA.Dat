@@ -1,0 +1,80 @@
+﻿Field=#~Integer~#~50|Field=Quantity~Integer~Quantity~100|Field=Designator~String~Designator~100|Field=Value~String~Value~100|Field=Footprint~String~Footprint~100|Field=Description~String~Description~100|Field=Comment~String~Comment~100|ReportField=Currency~<none>|ReportField=ProductionQuantity~1|ReportField=ProjectFileName~MiniFPGA.PrjPcb|ReportField=ProjectFullPath~F:\WorkDir\EleProjects\MiniFPGA\MiniFPGA.PrjPcb|ReportField=Title~Bill of Materials For Project [MiniFPGA.PrjPcb] (No PCB Document Selected)|ReportField=TotalQuantity~313|ReportField=ReportTime~10:40:42|ReportField=ReportDate~2017/10/10|ReportField=ReportDateTime~2017/10/10 10:40:42|ReportField=OutputName~Bill of Materials|ReportField=OutputType~BOM_PartType|ReportField=GeneratorName~BOM|ReportField=GeneratorDescription~Bill of Materials|ReportField=VariantName~None|ReportField=Address1~|ReportField=Address2~|ReportField=Address3~|ReportField=Address4~|ReportField=Application_BuildNumber~|ReportField=ApprovedBy~|ReportField=Author~|ReportField=CheckedBy~|ReportField=CompanyName~|ReportField=CurrentDate~2017/10/10|ReportField=CurrentTime~10:39:19|ReportField=Date~|ReportField=DocumentFullPathAndName~F:\WorkDir\EleProjects\MiniFPGA\ADC.SchDoc|ReportField=DocumentName~ADC.SchDoc|ReportField=DocumentNumber~|ReportField=DrawnBy~|ReportField=Engineer~|ReportField=ImagePath~|ReportField=ModifiedDate~2017/10/9|ReportField=Organization~|ReportField=ProjectName~MiniFPGA.PrjPcb|ReportField=Revision~|ReportField=Rule~|ReportField=SheetNumber~|ReportField=SheetTotal~|ReportField=Time~|ReportField=Title~|ReportField=DataSourceFileName~MiniFPGA.PrjPcb|ReportField=DataSourceFullPath~F:\WorkDir\EleProjects\MiniFPGA\MiniFPGA.PrjPcb|ReportField=PCBConfigurationName~Sources|ReportField=Item~|ReportField=ItemRevision~|ReportField=ItemAndRevision~|ReportField=ItemRevisionBase~|ReportField=ItemRevisionLevel1~|ReportField=ItemRevisionLevel2~|ReportField=ItemRevisionLevel1AndBase~|ReportField=ItemRevisionLevel2AndLevel1~
+1|2|ADC, DAC||SMA-V|SMA Connector|SMA
+2|28|C201, C202, C211, C212, C213, C214, C239, C308, C311, C313, C314, C315, C316, C317, C318, C319, C320, C321, C332, C333, C334, C406, C410, C613, C619, C621, C628, C630|1nF|0402C|MLCC|MLCC
+3|40|C203, C204, C207, C208, C209, C210, C219, C220, C221, C222, C223, C224, C225, C226, C227, C228, C229, C230, C231, C232, C233, C234, C235, C236, C238, C301, C302, C304, C305, C322, C323, C335, C402, C403, C414, C611, C618, C620, C627, C629|100nF|0402C|MLCC|MLCC
+4|5|C205, C206, C240, C241, C326|1uF|0603C|MLCC|MLCC
+5|43|C215, C216, C217, C218, C307, C310, C324, C325, C327, C407, C411, C413, C501, C502, C503, C504, C505, C506, C603, C604, C607, C616, C631, C633, C636, C639, C641, C642, C643, C644, C645, C646, C647, C648, C649, C650, C651, C652, C653, C654, C655, C656, C657|100nF|0603C|MLCC|MLCC
+6|3|C237, C408, C412|10uF|0805C|MLCC|MLCC
+7|1|C303|0|0402C|MLCC|MLCC
+8|11|C306, C309, C312, C328, C329, C330, C331, C401, C405, C409, C614|100pF|0402C|MLCC|MLCC
+9|1|C404|0|0603C|MLCC|MLCC
+10|1|C601|100uF|1210C|MLCC|MLCC
+11|6|C602, C615, C622, C623, C624, C625|10uF|1206C|MLCC|MLCC
+12|1|C605|10nF|0603C|MLCC|MLCC
+13|1|C606|68pF|0603C|MLCC|MLCC
+14|1|C608|100pF|0603C|MLCC|MLCC
+15|7|C609, C610, C617, C632, C634, C637, C640|100uF|1206C|MLCC|MLCC
+16|1|C612|10nF|0402C|MLCC|MLCC
+17|1|C626|220pF|0603C|MLCC|MLCC
+18|2|C635, C638|1uF|0805C|MLCC|MLCC
+19|7|CLK, EXTCLK4, EXTCLK5, EXTCLK6, EXTCLK7, EXTCLK8, EXTCLK9||SMA-V-NARROW|SMA Connector|SMA
+20|1|CT201|10nF|CAPC0603TH|3-terminal capacitor|CAP-TH
+21|2|D301, D302||SOD323|Silicon PIN diode|BAP50-03
+22|1|D601||SMB|600 Watt Peak Power Surmetict-40 Zener TransientVoltage Suppressors|P6KE6.8A
+23|3|D602, D603, D604||SOD123|3 A low VF MEGA Schottky barrier rectifier|PMEG4030ER
+24|9|FB202, FB203, FB204, FB301, FB302, FB303, FB401, FB402, FB403|1000R|0603L|FerriteBead|FerriteBead
+25|2|FB601, FB602|600R|1206L|FerriteBead|FerriteBead
+26|2|FB603, FB604|1000R|0805L|FerriteBead|FerriteBead
+27|1|FB605|220R|0805L|FerriteBead|FerriteBead
+28|4|H1, H2, H3, H4||MOUNTHOLE|3mm mount hole|MountHole
+29|1|JTAG||JTAG10|ALTERA JTAG port|JTAG_ALTERA
+30|1|L601|3.3uH|IND0630|Power Inductor|PowerInductor
+31|1|L602|3.3uH|IND0420|Power Inductor|PowerInductor
+32|1|L603|10uH|IND0420|Power Inductor|PowerInductor
+33|2|LED201, LED601||LED1206G|GREEN LED|LEDG
+34|1|LED202||LED1206R|RED LED|LEDR
+35|1|PAR||IDC30|FPGA parallel port|FPGA_PAR_SLAVE
+36|1|PWR||VH3.96-POWER-2P|2 pin power port|WPORT2_PWR
+37|1|Q201||SOT-23|NPN Bipolar Transistor|8050
+38|3|R201, R308, R309|10|0402R|Resistor|Resistor
+39|3|R202, R203, R301|49.9|0402R|Resistor|Resistor
+40|1|R204|0|0402R|Resistor|Resistor
+41|1|R205|∞|0402R|Resistor|Resistor
+42|5|R206, R207, R208, R605, R610|10K|0603R|Resistor|Resistor
+43|7|R209, R210, R211, R405, R406, R614, R616|1K|0603R|Resistor|Resistor
+44|33|R212, R213, R214, R215, R513, R514, R515, R516, R517, R518, R519, R520, R521, R522, R523, R524, R525, R526, R527, R528, R529, R530, R531, R532, R533, R534, R535, R536, R537, R538, R539, R540, R541|100|0603R|Resistor|Resistor
+45|1|R216|33|0603R|Resistor|Resistor
+46|5|R217, R218, R219, R604, R608|4.7K|0603R|Resistor|Resistor
+47|1|R220|1R|0603R|Resistor|Resistor
+48|6|R302, R303, R304, R305, R306, R307|1K|0402R|Resistor|Resistor
+49|2|R401, R402|24|0603R|Resistor|Resistor
+50|2|R403, R404|240|0603R|Resistor|Resistor
+51|13|R407, R501, R502, R503, R504, R505, R506, R507, R508, R509, R510, R511, R512|49.9|0603R|Resistor|Resistor
+52|1|R408|2K|0603R|Resistor|Resistor
+53|1|R601|68K|0603R|Resistor|Resistor
+54|1|R602|43K|0603R|Resistor|Resistor
+55|1|R603|75K|0603R|Resistor|Resistor
+56|1|R606|20K|0603R|Resistor|Resistor
+57|1|R607|0.01R|1206R|Resistor|Resistor
+58|1|R609|33K|0603R|Resistor|Resistor
+59|1|R611|160K|0603R|Resistor|Resistor
+60|1|R612|15K|0603R|Resistor|Resistor
+61|2|R613, R615|3K|0603R|Resistor|Resistor
+62|4|RP301, RP302, RP303, RP304|10|8P4R_0402|Isolated Resistor Network|Res Pack
+63|1|SER||IDC10|FPGA serial port|FPGA_SER_SLAVE
+64|1|SW201||SW-SMD1|Switch|SW2
+65|1|T301||ETC1-1-13M|RF balun|ETC-1-13M
+66|1|U201||FBGA256_A-155|Cyclone IV Family FPGA, 1.2V Core, 153 I/O Pins, 4 PLLs, 256-Pin FBGA, Speed Grade 8, Commercial Grade, Pb-Free|EP4CE22F17C8N
+67|1|U202||SOIC8_N|EPCS16 Series, In-system programmable 3.3V serial configuration device, 8-Pin SOIC, 16-Megabit, Industrial Grade, Pb-Free|EPCS16SI8N
+68|1|U203||DBV0006A_N|Dual Inverter, DBV0006A, LARGE T&R|SN74LVC2G04DBVR
+69|1|U301||SV-52-1_N|Single 14-Bit Analog-to-Digital Converter with Parallel Interface, 105MSPS, 0 to +70 degC, SV-52-1, Pb-Free, Tray|AD6645ASVZ-105
+70|1|U302||ADI-CP-16-2_L|Low Power Differential ADC Driver, 3 V to +/- 5 V, 9.6 mA per Amplifier, -40 to 105 degC, 16-Pin QFN (CP-16-2), RoHS, Reel|ADA4932-1YCPZ-R7
+71|1|U401||RU-28_N|Single 14-Bit TxDAC, 210 Msps, -40 to +85 degC, RU-28, Tube|AD9744ARU
+72|1|U402||D0008A_N|1.8 GHz Current Feedback Amplifier, 6.6 to 15 V, -40 to 85 degC, 8-pin SOIC (D8), Green (RoHS & no Sb/Br)|THS3201D
+73|1|U602|Value|RGY14_2P05X2P05|Buck Step Down Regulator with 4.5 to 17 V Input and 0.8 to 15 V Output, -40 to 150 degC, 14-Pin VQFN (RGY), Green (RoHS & no Sb/Br)|TPS54620_RGY_14
+74|1|U603|Value|DDC0006A_N|4.5-V to 17-V Input, 2-A Synchronous Step-Down Voltage Regulator in 6-Pin SOT-23|TPS562201DDCR
+75|1|U604|Value|MF05A_N|SIMPLE SWITCHER® 20Vout, 1.4A Step-Up Voltage Regulator in SOT-23|LMR62014_DBV
+76|1|U605|2.5V|DCY4|800mA LOW DROPOUT VOLTAGE REGULATOR|AMS1117
+77|2|U606, U607||MP04A_N|3-Terminal Adjustable Regulator, 4-pin SOT-223, 3-Terminal Adjustable Negative Regulator, 4-pin SOT-223|LM317EMP, LM337IMP
+78|1|U608|3.3V|DCY4|800mA LOW DROPOUT VOLTAGE REGULATOR|AMS1117
+79|1|X201|100MHz|XTAL-7050|Oscillator|Oscillator

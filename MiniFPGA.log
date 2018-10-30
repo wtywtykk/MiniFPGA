@@ -1,0 +1,36 @@
+--------------------- Thu Nov 16 23:40:07 2017 ---------------------
+
+Creating SIwave session log F:\WorkDir\EleProjects\MiniFPGA\MiniFPGA.log
+OS: Windows 8.1 Professional  (Build 9600)
+
+Saved F:\WorkDir\EleProjects\MiniFPGA\MiniFPGA.siw
+Loading potential difference plot(s) between layers Signal_Layer_1 and Ground_Plane; please wait...done
+Loading potential difference plot(s) between layers Bottom_Layer and Ground_Plane; please wait...done
+
+
+--------------------- Thu Nov 16 23:46:33 2017 ---------------------
+
+Appending to SIwave session log F:/WorkDir/EleProjects/MiniFPGA/MiniFPGA.log
+Loading F:\WorkDir\EleProjects\MiniFPGA\MiniFPGA.siw...
+
+Building AC surface plot(s)...
+Loading potential difference plot(s) between layers Signal_Layer_1 and Ground_Plane; please wait...done
+Loading potential difference plot(s) between layers Bottom_Layer and Ground_Plane; please wait...done
+Loading potential difference plot(s) between layers Top_Layer and Ground_Plane; please wait...done
+
+
+--------------------- Thu Nov 16 23:56:50 2017 ---------------------
+
+Appending to SIwave session log F:/WorkDir/EleProjects/MiniFPGA/MiniFPGA.log
+Loading F:\WorkDir\EleProjects\MiniFPGA\MiniFPGA.siw...
+
+Loading potential difference plot(s) between layers Signal_Layer_1 and Ground_Plane; please wait...done
+Loading potential difference plot(s) between layers Bottom_Layer and Ground_Plane; please wait...done
+Loading potential difference plot(s) between layers Bottom_Layer and Ground_Plane; please wait...done
+Building AC surface plot(s)...
+
+
+--------------------- Fri Nov 17 00:25:03 2017 ---------------------
+
+Appending to SIwave session log F:\WorkDir\EleProjects\MiniFPGA\MiniFPGA.log
+Saved F:\WorkDir\EleProjects\MiniFPGA\MiniFPGA.siw
